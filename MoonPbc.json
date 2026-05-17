@@ -1,0 +1,21 @@
+{
+  "libs": [
+    {
+      "name": "libzZz.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libzZz.so"
+    }
+  ],
+  "libs2": [
+    {
+      "name": "libxxx.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libxxx.so"
+    }
+  ],
+  "expiry_date": "2026-05-29",
+  "title": "Application Under Updating",
+  "message": "Update Launch Time ~ 3/4PM \nThis version has On Update. Please Wait And join our Telegram channel for the latest update.",
+  "telegram": "https://t.me/yourChannel",
+  "wh_expiry": "20251230",
+  "floating_text": "💥MOONWHYT ~ PBC 4.4 PREMIUM💥",
+  "left_text": "Version-4.3.0"
+}
