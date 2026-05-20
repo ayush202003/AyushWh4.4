@@ -2,7 +2,7 @@
   "libs": [
     {
       "name": "libGxWh.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libGxWh"
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libGxWh.so"
     }
   ],
   "libs2": [
