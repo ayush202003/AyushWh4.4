@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libGxWh.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libGxWh.so"
+      "name": "libGxV2.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libGxV2.so"
     }
   ],
   "libs2": [
@@ -16,6 +16,6 @@
   "message": "Update Launch Time ~ 3/4PM \nThis version has On Update. Please Wait And join our Telegram channel for the latest update.",
   "telegram": "https://t.me/yourChannel",
   "wh_expiry": "20251230",
-  "floating_text": "💥 Wallhack official MOD #1 💥",
+  "floating_text": "🚀 Wallhack official MOD #1 🚀",
   "left_text": "Version-4.4.0"
 }
