@@ -5,10 +5,10 @@
       "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libGxV2.so"
     }
   ],
-  "libs2": [
+  "login": [
     {
-      "name": "libxxx.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libxxx.so"
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libLogin.so",
+      "name": "libLogin.so"
     }
   ],
   "expiry_date": "2026-05-30",
