@@ -1,0 +1,15 @@
+{
+  "libs": [
+    {
+      "name": "libxXx.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libxXx.so"
+    }
+  ],
+  "expiry_date": "2026-06-15",
+  "title": "Application Under Updating",
+  "message": "Update Launch Time ~ 3/4PM \nThis version has On Update. Please Wait And join our Telegram channel for the latest update.",
+  "telegram": "https://t.me/",
+  "wh_expiry": "20260615",
+  "floating_text": "",
+  "left_text": ""
+}
