@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libxXx.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libxXx.so"
+      "name": "libPbcVisb.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libPbcVisb.so"
     }
   ],
   "expiry_date": "2026-06-22",
