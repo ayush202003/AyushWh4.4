@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libGxV2.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libGxV2.so"
+      "name": "libWHv1.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libWHv1.so"
     }
   ],
   "login": [
