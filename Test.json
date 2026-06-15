@@ -2,7 +2,7 @@
   "libs": [
     {
       "name": "libWHv1.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libWHv1.so"
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libWHv1x.so"
     }
   ],
   "login": [
