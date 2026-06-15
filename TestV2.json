@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libAdWHv2.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAdWHv2.so"
+      "name": "libAdv-WHs.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAdv-WHs.so"
     }
   ],
   "login": [
