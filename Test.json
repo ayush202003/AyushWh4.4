@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libAdv-Wh-FixLag.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAdv-Wh-FixLag.so"
+      "name": "libV.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libV.so"
     }
   ],
   "login": [
