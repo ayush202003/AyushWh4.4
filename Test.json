@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libAds-WHsBest.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAds-WHsBest.so"
+      "name": "libAdv-WHsBest.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAdv-WHsBest.so"
     }
   ],
   "login": [
