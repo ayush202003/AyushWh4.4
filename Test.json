@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libAdv-WH_Best.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAdv-WH_Best.soo"
+      "name": "libLag.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libLag.so"
     }
   ],
   "login": [
