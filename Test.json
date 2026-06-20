@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libLag.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libLag.so"
+      "name": "libAdv-Full_UnDetct.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAdv-Full_UnDetct.so"
     }
   ],
   "login": [
