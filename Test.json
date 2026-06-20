@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libAdv-Full_Undetect.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAdv-Full_Undetect.so"
+      "name": "libVB.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libVB.so"
     }
   ],
   "login": [
