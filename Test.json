@@ -11,6 +11,8 @@
       "name": "libLogin.so"
     }
   ],
+   "wh_enabled": true,
+  "wh_expiry": "20260710",
   "expiry_date": "2026-06-30",
   "title": "Application Under Updating",
   "message": "Update Launch Time ~ 3/4PM \nThis version has On Update. Please Wait And join our Telegram channel for the latest update.",
