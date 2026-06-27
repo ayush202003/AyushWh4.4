@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libAyush.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAyush.so"
+      "name": "libAyushWhG.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAyushWhG.so"
     }
   ],
   "expiry_date": "2026-07-10",
