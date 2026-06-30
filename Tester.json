@@ -1,15 +1,15 @@
 {
   "libs": [
     {
-      "name": "libAyushVisb.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAyushVisb.so"
+      "name": "libAyushWh.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAyushWh.so"
     }
   ],
   "expiry_date": "2026-07-10",
   "title": "Application Under Updating",
   "message": "Update Launch Time ~ 3/4PM \nThis version has On Update. Please Wait And join our Telegram channel for the latest update.",
   "telegram": "https://t.me/yourChannel",
-  "floating_text": "🚀 Premium Wallhack Visbilty - Arm64 Mod 🚀",
+  "floating_text": "🚀 GX Official Wallhack - Arm64 Mod 🚀 ",
   "wh_enabled": true,
   "wh_expiry": "20260710"
 }
