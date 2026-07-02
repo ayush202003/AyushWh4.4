@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libAyushWh.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libAyushWh.so"
+      "name": "libLagFix.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4.4/refs/heads/main/libLagFix.so"
     }
   ],
   "expiry_date": "2026-07-10",
