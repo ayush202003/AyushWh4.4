@@ -1,7 +1,7 @@
 {
   "libs": [
     {
-      "name": "libPbcVisb.so",
+      "name": "libPbcVis.so",
       "url": "https://raw.githubusercontent.com/ayush202003/AyushWH/refs/heads/main/libPbcVisb.so"
     }
   ],
